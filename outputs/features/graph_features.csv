@@ -1,0 +1,3 @@
+image,endpoint_count,branch_point_count,connected_components,graph_nodes,graph_edges,skeleton_length_pixels,branch_density,endpoint_density
+crack1,229,131,49,4292,4449,5177.19,0.025303,0.044233
+crack2,170,68,49,3576,3610,4202.33,0.016182,0.040454
