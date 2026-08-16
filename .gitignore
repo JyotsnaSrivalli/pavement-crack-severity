@@ -4,3 +4,6 @@ __pycache__/
 
 data/raw/
 data/processed
+
+data/CRACK500/
+test_dataset_pairs.py
