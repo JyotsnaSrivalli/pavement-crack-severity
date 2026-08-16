@@ -1,0 +1,5 @@
+feature,normalized_feature,CSI_correlation
+crack_coverage_percent,normalized_coverage,0.8815197438129743
+skeleton_length_pixels,normalized_skeleton_length,0.8402269030384029
+maximum_width_pixels,normalized_max_width,0.6982132306552833
+branch_density,normalized_branch_density,0.5378595980562227

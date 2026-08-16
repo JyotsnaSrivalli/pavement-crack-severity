@@ -1,0 +1,10 @@
+metric,value
+Dataset images,1896.0
+CSI mean,38.43771097046413
+CSI median,36.239999999999995
+CSI standard deviation,20.753754352357575
+CSI minimum,0.0
+CSI maximum,98.12
+Low images,632.0
+Moderate images,632.0
+High images,632.0

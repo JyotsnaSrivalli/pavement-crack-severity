@@ -1,0 +1,7 @@
+feature_1,feature_2,correlation
+graph_nodes,graph_edges,0.9995990609808018
+crack_coverage_percent,crack_area_pixels,0.9991319708527634
+graph_edges,skeleton_length_pixels,0.9988923921362755
+graph_nodes,skeleton_length_pixels,0.9980933276993612
+average_width_pixels,maximum_width_pixels,0.9405401202177862
+endpoint_count,branch_point_count,0.8822280904501412
